@@ -1,0 +1,48 @@
+1,"Phare avant droit",50,7
+1,"Phare avant droit",50,7
+2,"Phare avant gauche",50,15
+3,"Feu arrière droit",30,12
+4,"Feu arrière gauche",30,13
+5,"Pare-brise",150,14
+6,"Rétroviseur droit",40,11
+7,"Rétroviseur gauche",40,13
+8,"Portière avant droite",200,11
+9,"Portière avant gauche",200,12
+10,"Portière arrière droite",180,14
+11,"Portière arrière gauche",180,11
+12,"Pare-chocs avant",120,12
+13,"Pare-chocs arrière",120,13
+14,"Capot",250,16
+15,"Coffre",200,17
+16,"Roue avant droite",80,41
+17,"Roue avant gauche",80,51
+18,"Roue arrière droite",80,71
+19,"Roue arrière gauche",80,61
+20,"Siège conducteur",150,18
+21,"Siège passager",150,21
+22,"Volant",100,19
+23,"Tableau de bord",200,21
+24,"Compteur de vitesse",80,21
+25,"Clignotant droit",20,21
+26,"Clignotant gauche",20,31
+27,"Rétroviseur intérieur",40,41
+28,"Ceinture de sécurité",50,1
+29,"Pédale d'accélérateur",40,51
+30,"Pédale de frein",40,15
+31,"Pédale d'embrayage",40,14
+32,"Batterie",100,11
+33,"Alternateur",120,11
+34,"Filtre à air",15,12
+35,"Filtre à huile",10,13
+36,"Filtre à carburant",20,13
+37,"Silencieux d'échappement",100,13
+38,"Catalyseur",150,1
+39,"Tuyau d'échappement",80,10
+40,"Pompe à carburant",60,19
+41,"Radiateur",120,18
+42,"Thermostat",30,17
+43,"Vase d'expansion",40,16
+44,"Amortisseur avant droit",80,15
+45,"Amortisseur avant gauche",80,14
+46,"Amortisseur arrière droit",80,13
+47,"Amortisseur arrière gauche",80,12
